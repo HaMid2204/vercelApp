@@ -11,12 +11,12 @@
     "frame": {
       "version": "1",
       "name": "Example Frame",
-    "iconUrl": "https://mini-nuts--theta.vercel.app/icon.png",
-      "homeUrl": "https://mini-nuts--theta.vercel.app",
-      "imageUrl": "https://mini-nuts--theta.vercel.app/image.png",
+    "iconUrl": "https://vercel-app-seven-rust.vercel.app/icon.png",
+      "homeUrl": "https://vercel-app-seven-rust.vercel.app",
+      "imageUrl": "https://vercel-app-seven-rust.vercel.app/image.png",
       "buttonTitle": "Check this out",
-      "splashImageUrl": "https://mini-nuts--theta.vercel.app/splash.png",
+      "splashImageUrl": "https://vercel-app-seven-rust.vercel.app/splash.png",
       "splashBackgroundColor": "#eeccff",
-      "webhookUrl": "https://mini-nuts--theta.vercel.app/api/webhook"
+      "webhookUrl": "ttps://vercel-app-seven-rust.vercel.app/api/webhook"
     }
   }
