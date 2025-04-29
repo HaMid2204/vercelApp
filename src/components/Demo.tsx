@@ -98,7 +98,7 @@ const fetchUsernames = async (fids: number[]): Promise<Record<number, string>> =
     headers: {
       accept: "application/json",
       "x-neynar-experimental": "false",
-      "x-api-key": "25619DDA-759F-4ED1-B7D0-586B1FA6177B",
+      "x-api-key": "C283694F-C6E2-492F-B7B7-7DD1F7B3D9DC",
     },
   };
   try {
@@ -212,7 +212,7 @@ export default function Demo(
         headers: {
           accept: "application/json",
           "x-neynar-experimental": "false",
-          "x-api-key": "25619DDA-759F-4ED1-B7D0-586B1FA6177B",
+          "x-api-key": "C283694F-C6E2-492F-B7B7-7DD1F7B3D9DC",
         },
       };
 
@@ -257,7 +257,7 @@ export default function Demo(
             method: "GET",
             headers: {
               accept: "application/json",
-              "x-api-key": "25619DDA-759F-4ED1-B7D0-586B1FA6177B",
+              "x-api-key": "C283694F-C6E2-492F-B7B7-7DD1F7B3D9DC",
             },
           });
           if (!searchRes.ok) {
@@ -379,7 +379,7 @@ export default function Demo(
             method: "GET",
             headers: {
               accept: "application/json",
-              "x-api-key": "25619DDA-759F-4ED1-B7D0-586B1FA6177B",
+              "x-api-key": "C283694F-C6E2-492F-B7B7-7DD1F7B3D9DC",
             },
           });
           if (!earningRes.ok) {
