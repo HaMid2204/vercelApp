@@ -28,7 +28,7 @@
     "@farcaster/frame-sdk": "^0.0.31",
     "@farcaster/frame-wagmi-connector": "^0.0.19",
     "@moralisweb3/common-evm-utils": "^2.27.2",
-    "@neynar/nodejs-sdk": "^2.25.1",
+    "@neynar/nodejs-sdk": "^2.31.0",
     "@neynar/react": "^0.9.7",
     "@radix-ui/react-label": "^2.1.1",
     "@sqlitecloud/drivers": "^1.0.438",
